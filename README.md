@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NotThatSiri and I am a blog writer and a gamer. I manage communities on Discord and code Discord Bots as well as game mods. 
 - 👀 I’m interested in community management, blogging, technology, cyber security and coding.
 - 🌱 I’m currently learning LUA to better help a friend maintain a few game mods. 
-- 📫 How to reach me: I can be found on Twitter: [@FoxySirinity](https://twitter.com/FoxySirinity) and on Discord: https://discord.gg/siris-madhouse
+- 📫 How to reach me: I can be found on Twitter: [@FoxySirinity](https://twitter.com/FoxySirinity)
